@@ -1,13 +1,10 @@
 {
-    "name": "Poc heroku app.json",
     "description": "poc heroku app.json",
+    "region": "eu",
     "repository": "https://github.com/Grimmar/poc1.git",
     "addons": [
         {
-          "plan": "heroku-postgresql:hobby-dev",
-          "options": {
-            "version": "9.5"
-          }
+          "plan": "heroku-postgresql"
         }
       ]
   }
