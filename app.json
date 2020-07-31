@@ -1,6 +1,5 @@
 {
     "description": "poc heroku app.json",
-    "region": "eu",
     "repository": "https://github.com/Grimmar/poc1.git",
     "addons": [
         {
